@@ -1,0 +1,39 @@
+{
+  "Netflix": {
+    "1 Month": "50 BDT / 0.4$ / 40 INR",
+    "1 Year": "140 BDT / 1$ / 100 INR",
+    "Lifetime": "60 BDT / 0.5$ / 50 INR"
+  },
+  "Prime Video": {
+    "1 Month": "50 BDT / 0.4$ / 40 INR",
+    "1 Year": "140 BDT / 1$ / 100 INR",
+    "Lifetime": "100 BDT / 0.7$ / 70 INR"
+  },
+  "Crunchyroll": {
+    "1 Month": "40 BDT / 0.3$ / 30 INR",
+    "1 Year": "140 BDT / 1$ / 100 INR",
+    "Lifetime": "50 BDT / 0.4$ / 40 INR"
+  },
+  "Spotify": {
+    "1 Month": "120 BDT / 1$ / 100 INR",
+    "Lifetime": "90 BDT / 0.8$ / 80 INR (Shared)"
+  },
+  "Disney Plus": {
+    "1 Month": "60 BDT / 0.5$ / 50 INR",
+    "Lifetime": "90 BDT / 0.8$ / 80 INR (Shared)"
+  },
+  "Discord Nitro": {
+    "1 Month": "450 BDT / 3.5$ / 400 INR",
+    "2 Months Promo": "100 BDT / 0.7$ / 70 INR",
+    "3 Months Promo": "130 BDT / 1$ / 100 INR",
+    "1 Year": "4200 BDT / 40$ / 3900 INR"
+  },
+  "Members Service": {
+    "Online Members (1000)": "211 BDT / 1.7$",
+    "Offline Members (1000)": "117 BDT / 0.9$",
+    "Message Reactions (100)": "99 BDT / 0.7$"
+  },
+  "ChatGPT Premium": {
+    "12 Months": "260 BDT / 2$ / 200 INR"
+  }
+}
